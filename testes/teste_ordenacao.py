@@ -14,8 +14,6 @@ sys.path.append(os.path.dirname(os.path.abspath(__file__)) + "/../") # resolve o
 from algoritmos.ordenacao import Ordenacao
 
 
-import random
-
 class TestOrdenacao:
     def __init__(self):
         self.test_cases = [
