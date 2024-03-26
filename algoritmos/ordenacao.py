@@ -1,6 +1,6 @@
 # implemente aqui....
 
-class ordenacao:
+class Ordenacao:
 
     def bubble_def (lista):
         n = len(lista)
